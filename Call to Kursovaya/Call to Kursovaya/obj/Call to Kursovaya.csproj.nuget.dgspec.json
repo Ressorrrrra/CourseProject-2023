@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj": {}
+    "C:\\Users\\jbob0\\source\\repos\\CourseProject-2023\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj": {
+    "C:\\Users\\jbob0\\source\\repos\\CourseProject-2023\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj",
+        "projectUniqueName": "C:\\Users\\jbob0\\source\\repos\\CourseProject-2023\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj",
         "projectName": "Call to Kursovaya",
-        "projectPath": "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj",
+        "projectPath": "C:\\Users\\jbob0\\source\\repos\\CourseProject-2023\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj",
         "packagesPath": "C:\\Users\\jbob0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\obj\\",
+        "outputPath": "C:\\Users\\jbob0\\source\\repos\\CourseProject-2023\\Call to Kursovaya\\Call to Kursovaya\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
