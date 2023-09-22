@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbgAjINbv3rrFHuq+Knd+QRRgivMwtHFWstXpL+/tn8MisQh84DGSvMAxJJH7pI9TtOM38L0iqHKbuGaFLX5NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jbob0\\source\\repos\\Call to Kursovaya\\Call to Kursovaya\\Call to Kursovaya.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jbob0\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.17\\microsoft.netcore.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\jbob0\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.17\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.17.nupkg.sha512",
+    "C:\\Users\\jbob0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.17\\microsoft.aspnetcore.app.runtime.win-x86.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

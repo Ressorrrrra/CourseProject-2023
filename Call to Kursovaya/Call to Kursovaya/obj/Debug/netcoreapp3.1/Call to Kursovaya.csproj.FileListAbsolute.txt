@@ -1,0 +1,17 @@
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.exe
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.deps.json
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.runtimeconfig.json
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.runtimeconfig.dev.json
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.dll
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\bin\Debug\netcoreapp3.1\Call to Kursovaya.pdb
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.csproj.AssemblyReference.cache
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call_to_Kursovaya.Form1.resources
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.csproj.GenerateResource.cache
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.AssemblyInfoInputs.cache
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.AssemblyInfo.cs
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.dll
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.pdb
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call to Kursovaya.genruntimeconfig.cache
+C:\Users\jbob0\source\repos\Call to Kursovaya\Call to Kursovaya\obj\Debug\netcoreapp3.1\Call_to_Kursovaya.Resource1.resources

@@ -1,0 +1,5 @@
+C:\Users\jbob0\OneDrive\Рабочий стол\Курсовая\Call to Kursovaya.exe
+C:\Users\jbob0\OneDrive\Рабочий стол\Курсовая\Call to Kursovaya.dll
+C:\Users\jbob0\OneDrive\Рабочий стол\Курсовая\Call to Kursovaya.deps.json
+C:\Users\jbob0\OneDrive\Рабочий стол\Курсовая\Call to Kursovaya.runtimeconfig.json
+C:\Users\jbob0\OneDrive\Рабочий стол\Курсовая\Call to Kursovaya.pdb
