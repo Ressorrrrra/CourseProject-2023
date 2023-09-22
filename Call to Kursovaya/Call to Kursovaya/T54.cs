@@ -10,6 +10,7 @@ namespace Call_to_Kursovaya
         public static new int metal_cost = 75;
         public static new int oil_cost = 10;
         public static new int spawn_ground = 1;
+        private int _test;
 
         public T54(int _ally, Point point) : base(_ally, point)
         {
